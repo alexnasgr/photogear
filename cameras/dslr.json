@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "brand": "Canon",
+    "model": "EOS 5D Mark IV",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 30.4,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 6+",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 800,
+      "dimensions": {
+        "width": 150.7,
+        "height": 116.4,
+        "depth": 75.9
+      }
+    },
+    "autofocus": {
+      "points": 61,
+      "cross_type_points": 41,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 21,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["C-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 900,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Nikon",
+    "model": "D850",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 45.7,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 5",
+      "iso": {
+        "native": "64-25600",
+        "expanded": "32-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2359000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 915,
+      "dimensions": {
+        "width": 146,
+        "height": 124,
+        "depth": 78.5
+      }
+    },
+    "autofocus": {
+      "points": 153,
+      "cross_type_points": 99,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 51,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["XQD", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15a",
+      "life_shots": 1840,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.75
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Canon",
+    "model": "EOS 90D",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 32.5,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 8",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 701,
+      "dimensions": {
+        "width": 140.7,
+        "height": 104.8,
+        "depth": 76.8
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 25,
+      "buffer_jpeg": 58
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 1300,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.59
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Nikon",
+    "model": "D7500",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.9,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 5",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-1640000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 922000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Carbon Fiber Composite",
+      "weather_sealed": true,
+      "weight": 640,
+      "dimensions": {
+        "width": 135.5,
+        "height": 104,
+        "depth": 72.5
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 50,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15a",
+      "life_shots": 950,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Canon",
+    "model": "EOS 1D X Mark III",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 20.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-819200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1440,
+      "dimensions": {
+        "width": 158,
+        "height": 167.6,
+        "depth": 82.6
+      }
+    },
+    "autofocus": {
+      "points": 191,
+      "cross_type_points": 155,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 16,
+      "buffer_raw": 1000,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "5.5K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log"],
+      "formats": ["MP4", "RAW"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress"]
+    },
+    "battery": {
+      "model": "LP-E19",
+      "life_shots": 2850,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.1",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Nikon",
+    "model": "D780",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 24.5,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2359000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 840,
+      "dimensions": {
+        "width": 143.5,
+        "height": 115.5,
+        "depth": 76
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 68,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log", "HDR-HLG"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15b",
+      "life_shots": 2260,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.1",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Canon",
+    "model": "EOS Rebel T8i (850D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 8",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 515,
+      "dimensions": {
+        "width": 131,
+        "height": 102.6,
+        "depth": 76.2
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 11,
+      "buffer_jpeg": 40
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 24,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 800,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.51
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Nikon",
+    "model": "D3500",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 415,
+      "dimensions": {
+        "width": 124,
+        "height": 97,
+        "depth": 69.5
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 1,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 13,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 1550,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.57
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2018,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 9,
+    "brand": "Pentax",
+    "model": "K-1 Mark II",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 36.4,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "PRIME IV",
+      "iso": {
+        "native": "100-819200",
+        "expanded": "100-819200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1010,
+      "dimensions": {
+        "width": 136.5,
+        "height": 110,
+        "depth": 85.5
+      }
+    },
+    "autofocus": {
+      "points": 33,
+      "cross_type_points": 25,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 4.4,
+      "buffer_raw": 17,
+      "buffer_jpeg": 70
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI90",
+      "life_shots": 670,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": true,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2018,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 10,
+    "brand": "Canon",
+    "model": "EOS 6D Mark II",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 26.2,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 7",
+      "iso": {
+        "native": "100-40000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 765,
+      "dimensions": {
+        "width": 144,
+        "height": 110.5,
+        "depth": 74.8
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6.5,
+      "buffer_raw": 21,
+      "buffer_jpeg": 150
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 1200,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 98,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 11,
+    "brand": "Nikon",
+    "model": "D500",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.9,
+      "size_mm": "23.5 x 15.7",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 5",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-1640000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2359000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 860,
+      "dimensions": {
+        "width": 147,
+        "height": 115,
+        "depth": 81
+      }
+    },
+    "autofocus": {
+      "points": 153,
+      "cross_type_points": 99,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 200,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["XQD", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 1240,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.67
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 12,
+    "brand": "Canon",
+    "model": "EOS 7D Mark II",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.2,
+      "size_mm": "22.4 x 15",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 6",
+      "iso": {
+        "native": "100-16000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 910,
+      "dimensions": {
+        "width": 148.6,
+        "height": 112.4,
+        "depth": 78.2
+      }
+    },
+    "autofocus": {
+      "points": 65,
+      "cross_type_points": 65,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 31,
+      "buffer_jpeg": 130
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 670,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 13,
+    "brand": "Nikon",
+    "model": "D750",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.3,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "50-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1228800,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 840,
+      "dimensions": {
+        "width": 140.5,
+        "height": 113,
+        "depth": 78
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6.5,
+      "buffer_raw": 25,
+      "buffer_jpeg": 87
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 1230,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 14,
+    "brand": "Pentax",
+    "model": "K-3 III",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 25.7,
+      "size_mm": "23.3 x 15.5",
+      "crop_factor": 1.5,
+      "image_processor": "PRIME V",
+      "iso": {
+        "native": "100-1600000",
+        "expanded": "100-1600000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 820,
+      "dimensions": {
+        "width": 134.5,
+        "height": 103.5,
+        "depth": 73.5
+      }
+    },
+    "autofocus": {
+      "points": 101,
+      "cross_type_points": 25,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 12,
+      "buffer_raw": 37,
+      "buffer_jpeg": 60
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI90",
+      "life_shots": 800,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 15,
+    "brand": "Canon",
+    "model": "EOS 5DS R",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 50.6,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 6",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "50-12800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 930,
+      "dimensions": {
+        "width": 152,
+        "height": 116.4,
+        "depth": 76.4
+      }
+    },
+    "autofocus": {
+      "points": 61,
+      "cross_type_points": 41,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 14,
+      "buffer_jpeg": 28
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 700,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2015,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 16,
+    "brand": "Nikon",
+    "model": "D810",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 36.3,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "64-12800",
+        "expanded": "32-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1228800,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 980,
+      "dimensions": {
+        "width": 146,
+        "height": 123,
+        "depth": 81.5
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 28,
+      "buffer_jpeg": 56
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 1200,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 17,
+    "brand": "Canon",
+    "model": "EOS 80D",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 6",
+      "iso": {
+        "native": "100-16000",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 730,
+      "dimensions": {
+        "width": 139,
+        "height": 105.2,
+        "depth": 78.5
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 25,
+      "buffer_jpeg": 110
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 960,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.59
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 18,
+    "brand": "Nikon",
+    "model": "D5600",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 465,
+      "dimensions": {
+        "width": 124,
+        "height": 97,
+        "depth": 70
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 8,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 970,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.55
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black", "Red"]
+    }
+  },
+  {
+    "id": 19,
+    "brand": "Pentax",
+    "model": "KP",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.3,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "PRIME IV",
+      "iso": {
+        "native": "100-819200",
+        "expanded": "100-819200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 703,
+      "dimensions": {
+        "width": 131.5,
+        "height": 101,
+        "depth": 76
+      }
+    },
+    "autofocus": {
+      "points": 27,
+      "cross_type_points": 25,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 10,
+      "buffer_jpeg": 30
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI109",
+      "life_shots": 390,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/6000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 20,
+    "brand": "Canon",
+    "model": "EOS 5D Mark III",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 22.3,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 5+",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 950,
+      "dimensions": {
+        "width": 152,
+        "height": 116.4,
+        "depth": 76.4
+      }
+    },
+    "autofocus": {
+      "points": 61,
+      "cross_type_points": 41,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 18,
+      "buffer_jpeg": 63
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "LP-E6",
+      "life_shots": 950,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 21,
+    "brand": "Nikon",
+    "model": "D7200",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1228800,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 765,
+      "dimensions": {
+        "width": 135.5,
+        "height": 106.5,
+        "depth": 76
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 27,
+      "buffer_jpeg": 56
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 1110,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2015,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 22,
+    "brand": "Canon",
+    "model": "EOS 77D (9000D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 7",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": false,
+      "weight": 540,
+      "dimensions": {
+        "width": 131,
+        "height": 99.9,
+        "depth": 76.2
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 23,
+      "buffer_jpeg": 170
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 600,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.51
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 23,
+    "brand": "Nikon",
+    "model": "D5",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 20.8,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 5",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-3280000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2359000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1415,
+      "dimensions": {
+        "width": 160,
+        "height": 158.5,
+        "depth": 92
+      }
+    },
+    "autofocus": {
+      "points": 153,
+      "cross_type_points": 99,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 12,
+      "buffer_raw": 200,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "XQD"]
+    },
+    "battery": {
+      "model": "EN-EL18a",
+      "life_shots": 3780,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.72
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 24,
+    "brand": "Canon",
+    "model": "EOS Rebel SL3 (250D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 8",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 449,
+      "dimensions": {
+        "width": 122.4,
+        "height": 92.6,
+        "depth": 69.8
+      }
+    },
+    "autofocus": {
+      "points": 9,
+      "cross_type_points": 1,
+      "low_light_af_ev": "-0.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 10,
+      "buffer_jpeg": 30
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 24,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 1070,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.54
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "current",
+      "colors": ["Black", "White"]
+    }
+  },
+  {
+    "id": 25,
+    "brand": "Nikon",
+    "model": "D610",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.3,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 3",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "50-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 850,
+      "dimensions": {
+        "width": 141,
+        "height": 113,
+        "depth": 82
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 21,
+      "buffer_jpeg": 51
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 900,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2013,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 26,
+    "brand": "Canon",
+    "model": "EOS-1D X",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 18.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 5+",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1530,
+      "dimensions": {
+        "width": 158,
+        "height": 163.6,
+        "depth": 82.7
+      }
+    },
+    "autofocus": {
+      "points": 61,
+      "cross_type_points": 41,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 35,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF"]
+    },
+    "battery": {
+      "model": "LP-E4N",
+      "life_shots": 1120,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 27,
+    "brand": "Pentax",
+    "model": "645Z",
+    "sensor": {
+      "type": "Medium Format CMOS",
+      "resolution_mp": 51.4,
+      "size_mm": "43.8 x 32.8",
+      "crop_factor": 0.79,
+      "image_processor": "PRIME III",
+      "iso": {
+        "native": "100-204800",
+        "expanded": "100-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1550,
+      "dimensions": {
+        "width": 156,
+        "height": 117,
+        "depth": 123
+      }
+    },
+    "autofocus": {
+      "points": 27,
+      "cross_type_points": 25,
+      "low_light_af_ev": "-3",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 3,
+      "buffer_raw": 12,
+      "buffer_jpeg": 30
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI90",
+      "life_shots": 650,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 98,
+      "magnification": 0.62
+    },
+    "lens_mount": {
+      "mount": "Pentax 645AF2",
+      "compatible_lenses": ["645", "645AF2"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/125"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 28,
+    "brand": "Nikon",
+    "model": "D5300",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 480,
+      "dimensions": {
+        "width": 125,
+        "height": 98,
+        "depth": 76
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 6,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 600,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.55
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2013,
+      "status": "discontinued",
+      "colors": ["Black", "Red", "Gray"]
+    }
+  },
+  {
+    "id": 29,
+    "brand": "Canon",
+    "model": "EOS Rebel T7 (2000D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 4+",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "100-12800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 920000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 475,
+      "dimensions": {
+        "width": 129,
+        "height": 101.3,
+        "depth": 77.6
+      }
+    },
+    "autofocus": {
+      "points": 9,
+      "cross_type_points": 1,
+      "low_light_af_ev": "0",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 3,
+      "buffer_raw": 11,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E10",
+      "life_shots": 500,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.5
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2018,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 30,
+    "brand": "Nikon",
+    "model": "D6",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 20.8,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-3280000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2359000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1450,
+      "dimensions": {
+        "width": 160,
+        "height": 163,
+        "depth": 92
+      }
+    },
+    "autofocus": {
+      "points": 105,
+      "cross_type_points": 105,
+      "low_light_af_ev": "-4.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 200,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress", "XQD"]
+    },
+    "battery": {
+      "model": "EN-EL18c",
+      "life_shots": 3580,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.1",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.72
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 31,
+    "brand": "Canon",
+    "model": "EOS Rebel T7i (800D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 7",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": false,
+      "weight": 532,
+      "dimensions": {
+        "width": 131,
+        "height": 99.9,
+        "depth": 76.2
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 45,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 22,
+      "buffer_jpeg": 190
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 600,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.51
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2017,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 32,
+    "brand": "Nikon",
+    "model": "D3400",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 445,
+      "dimensions": {
+        "width": 124,
+        "height": 98,
+        "depth": 75.5
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 1,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 7,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 1200,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.57
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black", "Red"]
+    }
+  },
+  {
+    "id": 33,
+    "brand": "Pentax",
+    "model": "K-70",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "PRIME MII",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "100-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": true,
+      "weight": 688,
+      "dimensions": {
+        "width": 125.5,
+        "height": 93,
+        "depth": 74
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 8,
+      "buffer_jpeg": 40
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI109",
+      "life_shots": 410,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/6000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 34,
+    "brand": "Canon",
+    "model": "EOS 6D",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 20.2,
+      "size_mm": "35.8 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 5+",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 770,
+      "dimensions": {
+        "width": 144.5,
+        "height": 110.5,
+        "depth": 71.2
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 1,
+      "low_light_af_ev": "-3",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 4.5,
+      "buffer_raw": 14,
+      "buffer_jpeg": 1250
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6",
+      "life_shots": 1090,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": true,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 97,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 35,
+    "brand": "Nikon",
+    "model": "Df",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 16.2,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 3",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 760,
+      "dimensions": {
+        "width": 143.5,
+        "height": 110,
+        "depth": 66.5
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 5.5,
+      "buffer_raw": 22,
+      "buffer_jpeg": 50
+    },
+    "video": {
+      "max_resolution": "None",
+      "max_fps": 0,
+      "log_profiles": [],
+      "formats": [],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 1400,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2013,
+      "status": "discontinued",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 36,
+    "brand": "Canon",
+    "model": "EOS 5D Mark II",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 21.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 4",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "50-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 920000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 850,
+      "dimensions": {
+        "width": 152,
+        "height": 113.5,
+        "depth": 75
+      }
+    },
+    "autofocus": {
+      "points": 9,
+      "cross_type_points": 1,
+      "low_light_af_ev": "0",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 3.9,
+      "buffer_raw": 13,
+      "buffer_jpeg": 78
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["CF"]
+    },
+    "battery": {
+      "model": "LP-E6",
+      "life_shots": 850,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 98,
+      "magnification": 0.71
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2008,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 37,
+    "brand": "Nikon",
+    "model": "D3300",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 460,
+      "dimensions": {
+        "width": 124,
+        "height": 98,
+        "depth": 75.5
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 1,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 6,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 700,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.57
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black", "Red", "Gray"]
+    }
+  },
+  {
+    "id": 38,
+    "brand": "Canon",
+    "model": "EOS 1D Mark IV",
+    "sensor": {
+      "type": "APS-H CMOS",
+      "resolution_mp": 16.1,
+      "size_mm": "27.9 x 18.6",
+      "crop_factor": 1.3,
+      "image_processor": "DIGIC 4",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 920000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1230,
+      "dimensions": {
+        "width": 156,
+        "height": 156.6,
+        "depth": 79.9
+      }
+    },
+    "autofocus": {
+      "points": 45,
+      "cross_type_points": 39,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 28,
+      "buffer_jpeg": 120
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "SD"]
+    },
+    "battery": {
+      "model": "LP-E4",
+      "life_shots": 1500,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/300"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2009,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 39,
+    "brand": "Nikon",
+    "model": "D5500",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 420,
+      "dimensions": {
+        "width": 124,
+        "height": 97,
+        "depth": 70
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 7,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14a",
+      "life_shots": 820,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.55
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2015,
+      "status": "discontinued",
+      "colors": ["Black", "Red"]
+    }
+  },
+  {
+    "id": 40,
+    "brand": "Pentax",
+    "model": "K-S2",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "PRIME MII",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Stainless Steel/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 678,
+      "dimensions": {
+        "width": 122.5,
+        "height": 91,
+        "depth": 72.5
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5.5,
+      "buffer_raw": 9,
+      "buffer_jpeg": 30
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI109",
+      "life_shots": 480,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/6000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2015,
+      "status": "discontinued",
+      "colors": ["Black", "White", "Beige"]
+    }
+  },
+  {
+    "id": 41,
+    "brand": "Canon",
+    "model": "EOS 7D",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 18.0,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 4",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "100-12800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 920000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 860,
+      "dimensions": {
+        "width": 148.2,
+        "height": 110.7,
+        "depth": 73.5
+      }
+    },
+    "autofocus": {
+      "points": 19,
+      "cross_type_points": 19,
+      "low_light_af_ev": "-0.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 25,
+      "buffer_jpeg": 130
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["CF"]
+    },
+    "battery": {
+      "model": "LP-E6",
+      "life_shots": 800,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2009,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 42,
+    "brand": "Nikon",
+    "model": "D7100",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 3",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "50-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1228800,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 765,
+      "dimensions": {
+        "width": 135.5,
+        "height": 106.5,
+        "depth": 76
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 9,
+      "buffer_jpeg": 33
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 950,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2013,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 43,
+    "brand": "Canon",
+    "model": "EOS Rebel T6i (750D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 6",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum Alloy/Polycarbonate",
+      "weather_sealed": false,
+      "weight": 555,
+      "dimensions": {
+        "width": 131.9,
+        "height": 100.7,
+        "depth": 77.8
+      }
+    },
+    "autofocus": {
+      "points": 19,
+      "cross_type_points": 19,
+      "low_light_af_ev": "-0.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 6,
+      "buffer_jpeg": 180
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 440,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.51
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2015,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 44,
+    "brand": "Nikon",
+    "model": "D7000",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 16.2,
+      "size_mm": "23.6 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 2",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 780,
+      "dimensions": {
+        "width": 132,
+        "height": 105,
+        "depth": 77
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 6,
+      "buffer_raw": 11,
+      "buffer_jpeg": 31
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 24,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15",
+      "life_shots": 1050,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.63
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2010,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 45,
+    "brand": "Pentax",
+    "model": "K-1",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 36.4,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "PRIME IV",
+      "iso": {
+        "native": "100-204800",
+        "expanded": "100-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1037000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1010,
+      "dimensions": {
+        "width": 136.5,
+        "height": 110,
+        "depth": 85.5
+      }
+    },
+    "autofocus": {
+      "points": 33,
+      "cross_type_points": 25,
+      "low_light_af_ev": "-3",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 4.4,
+      "buffer_raw": 17,
+      "buffer_jpeg": 70
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "AVI"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI90",
+      "life_shots": 760,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": true,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF4",
+      "compatible_lenses": ["KAF4", "KAF3", "KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2016,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 46,
+    "brand": "Canon",
+    "model": "EOS Rebel T5 (1200D)",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 18.0,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC 4",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "100-12800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 460000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 480,
+      "dimensions": {
+        "width": 129.6,
+        "height": 99.7,
+        "depth": 77.9
+      }
+    },
+    "autofocus": {
+      "points": 9,
+      "cross_type_points": 1,
+      "low_light_af_ev": "0",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 3,
+      "buffer_raw": 6,
+      "buffer_jpeg": 69
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MOV"],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E10",
+      "life_shots": 500,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.5
+    },
+    "lens_mount": {
+      "mount": "Canon EF-S",
+      "compatible_lenses": ["EF-S", "EF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 47,
+    "brand": "Nikon",
+    "model": "D5200",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 3",
+      "iso": {
+        "native": "100-6400",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 555,
+      "dimensions": {
+        "width": 129,
+        "height": 98,
+        "depth": 78
+      }
+    },
+    "autofocus": {
+      "points": 39,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-1",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 7,
+      "buffer_jpeg": 30
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL14",
+      "life_shots": 500,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 95,
+      "magnification": 0.52
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["DX", "FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black", "Bronze", "Red"]
+    }
+  },
+  {
+    "id": 48,
+    "brand": "Canon",
+    "model": "EOS 1D C",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 18.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 5+",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1540,
+      "dimensions": {
+        "width": 158,
+        "height": 163.6,
+        "depth": 82.7
+      }
+    },
+    "autofocus": {
+      "points": 61,
+      "cross_type_points": 41,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 35,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 24,
+      "log_profiles": ["C-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF"]
+    },
+    "battery": {
+      "model": "LP-E4N",
+      "life_shots": 1120,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon EF",
+      "compatible_lenses": ["EF"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 49,
+    "brand": "Nikon",
+    "model": "D4S",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 16.2,
+      "size_mm": "36 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 4",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-409600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1350,
+      "dimensions": {
+        "width": 160,
+        "height": 156.5,
+        "depth": 90.5
+      }
+    },
+    "autofocus": {
+      "points": 51,
+      "cross_type_points": 15,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 75,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CF", "XQD"]
+    },
+    "battery": {
+      "model": "EN-EL18a",
+      "life_shots": 3020,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.7
+    },
+    "lens_mount": {
+      "mount": "Nikon F",
+      "compatible_lenses": ["FX", "DX"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2014,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 50,
+    "brand": "Pentax",
+    "model": "K-5 II",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 16.3,
+      "size_mm": "23.7 x 15.7",
+      "crop_factor": 1.5,
+      "image_processor": "PRIME II",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "80-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921000,
+      "touchscreen": false,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy/Stainless Steel",
+      "weather_sealed": true,
+      "weight": 760,
+      "dimensions": {
+        "width": 131,
+        "height": 97,
+        "depth": 72.5
+      }
+    },
+    "autofocus": {
+      "points": 11,
+      "cross_type_points": 9,
+      "low_light_af_ev": "-3",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 7,
+      "buffer_raw": 28,
+      "buffer_jpeg": 40
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 25,
+      "log_profiles": [],
+      "formats": ["AVI"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "D-LI90",
+      "life_shots": 740,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": false,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Optical",
+      "coverage_percent": 100,
+      "magnification": 0.61
+    },
+    "lens_mount": {
+      "mount": "Pentax KAF2",
+      "compatible_lenses": ["KAF2", "KAF", "KA"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2012,
+      "status": "discontinued",
+      "colors": ["Black", "Silver"]
+    }
+  }
+]
