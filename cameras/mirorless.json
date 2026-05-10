@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "brand": "Sony",
+    "model": "Alpha a7R V",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 61.0,
+      "size_mm": "35.7 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2095100,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 723,
+      "dimensions": {
+        "width": 131.3,
+        "height": 96.9,
+        "depth": 82.4
+      }
+    },
+    "autofocus": {
+      "points": 693,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 583,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 24,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type A", "SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 530,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.90
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Canon",
+    "model": "EOS R5",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 45.0,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 738,
+      "dimensions": {
+        "width": 138,
+        "height": 97.5,
+        "depth": 88
+      }
+    },
+    "autofocus": {
+      "points": 5940,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 180,
+      "buffer_jpeg": 350
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 30,
+      "log_profiles": ["C-Log", "C-Log3"],
+      "formats": ["RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "LP-E6NH",
+      "life_shots": 490,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Nikon",
+    "model": "Z9",
+    "sensor": {
+      "type": "Full Frame Stacked CMOS",
+      "resolution_mp": 45.7,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 7",
+      "iso": {
+        "native": "64-25600",
+        "expanded": "32-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1340,
+      "dimensions": {
+        "width": 149,
+        "height": 149.5,
+        "depth": 90.5
+      }
+    },
+    "autofocus": {
+      "points": 493,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-8.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 1000,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log", "HDR-HLG"],
+      "formats": ["ProRes RAW", "N-RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "XQD"]
+    },
+    "battery": {
+      "model": "EN-EL18d",
+      "life_shots": 770,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/32000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Sony",
+    "model": "Alpha a7 IV",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 33.0,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1036800,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 658,
+      "dimensions": {
+        "width": 131.3,
+        "height": 96.4,
+        "depth": 79.8
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 828,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type A", "SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 580,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.78
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Canon",
+    "model": "EOS R6 Mark II",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy/Polycarbonate",
+      "weather_sealed": true,
+      "weight": 680,
+      "dimensions": {
+        "width": 138.4,
+        "height": 98.4,
+        "depth": 88.4
+      }
+    },
+    "autofocus": {
+      "points": 4897,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 40,
+      "buffer_raw": 190,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log3"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6NH",
+      "life_shots": 580,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/16000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Nikon",
+    "model": "Z8",
+    "sensor": {
+      "type": "Full Frame Stacked CMOS",
+      "resolution_mp": 45.7,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 7",
+      "iso": {
+        "native": "64-25600",
+        "expanded": "32-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 910,
+      "dimensions": {
+        "width": 144,
+        "height": 118.5,
+        "depth": 83
+      }
+    },
+    "autofocus": {
+      "points": 493,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 700,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log", "HDR-HLG"],
+      "formats": ["N-RAW", "ProRes RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/32000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Fujifilm",
+    "model": "X-T5",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 5 HR",
+      "resolution_mp": 40.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 5",
+      "iso": {
+        "native": "125-12800",
+        "expanded": "64-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 557,
+      "dimensions": {
+        "width": 129.5,
+        "height": 91,
+        "depth": 63.8
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 15,
+      "buffer_raw": 42,
+      "buffer_jpeg": 168
+    },
+    "video": {
+      "max_resolution": "6.2K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log", "F-Log2"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 580,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/180000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Sony",
+    "model": "Alpha a6700",
+    "sensor": {
+      "type": "APS-C BSI CMOS",
+      "resolution_mp": 26.0,
+      "size_mm": "23.3 x 15.5",
+      "crop_factor": 1.5,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1036800,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 493,
+      "dimensions": {
+        "width": 122,
+        "height": 69,
+        "depth": 75.1
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 59,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 120,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 550,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 9,
+    "brand": "Canon",
+    "model": "EOS R8",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": true,
+      "weight": 461,
+      "dimensions": {
+        "width": 132.5,
+        "height": 86.1,
+        "depth": 70
+      }
+    },
+    "autofocus": {
+      "points": 4897,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 40,
+      "buffer_raw": 56,
+      "buffer_jpeg": 120
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log3"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 370,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/16000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 10,
+    "brand": "Nikon",
+    "model": "Z6 III",
+    "sensor": {
+      "type": "Full Frame Partially Stacked CMOS",
+      "resolution_mp": 24.5,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 7",
+      "iso": {
+        "native": "100-64000",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 760,
+      "dimensions": {
+        "width": 138.5,
+        "height": 101.5,
+        "depth": 74
+      }
+    },
+    "autofocus": {
+      "points": 493,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-10",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 200,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "6K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log", "HDR-HLG"],
+      "formats": ["N-RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/16000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2024,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 11,
+    "brand": "Sony",
+    "model": "Alpha a1",
+    "sensor": {
+      "type": "Full Frame Stacked CMOS",
+      "resolution_mp": 50.1,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1440000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 737,
+      "dimensions": {
+        "width": 128.9,
+        "height": 96.9,
+        "depth": 80.8
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 30,
+      "buffer_raw": 238,
+      "buffer_jpeg": 400
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 30,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type A", "SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 530,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.90
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/32000",
+      "min_speed": "30s",
+      "flash_sync": "1/400"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 12,
+    "brand": "Fujifilm",
+    "model": "X-H2S",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 5 HS",
+      "resolution_mp": 26.16,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 5",
+      "iso": {
+        "native": "160-12800",
+        "expanded": "80-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 660,
+      "dimensions": {
+        "width": 136.3,
+        "height": 92.9,
+        "depth": 84.6
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 40,
+      "buffer_raw": 184,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "6.2K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log", "F-Log2"],
+      "formats": ["ProRes RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 580,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/32000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 13,
+    "brand": "OM System",
+    "model": "OM-1 Mark II",
+    "sensor": {
+      "type": "Micro Four Thirds Stacked BSI CMOS",
+      "resolution_mp": 20.4,
+      "size_mm": "17.4 x 13",
+      "crop_factor": 2.0,
+      "image_processor": "TruePic X",
+      "iso": {
+        "native": "200-25600",
+        "expanded": "80-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 599,
+      "dimensions": {
+        "width": 134.8,
+        "height": 91.6,
+        "depth": 72.7
+      }
+    },
+    "autofocus": {
+      "points": 1053,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-5.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 50,
+      "buffer_raw": 256,
+      "buffer_jpeg": 256
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["OM-Log400"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "BLX-1",
+      "life_shots": 520,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.83
+    },
+    "lens_mount": {
+      "mount": "Micro Four Thirds",
+      "compatible_lenses": ["MFT"]
+    },
+    "shutter": {
+      "max_speed": "1/32000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2024,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 14,
+    "brand": "Panasonic",
+    "model": "Lumix S5 II",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "Venus Engine",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 740,
+      "dimensions": {
+        "width": 134.3,
+        "height": 102.3,
+        "depth": 90.1
+      }
+    },
+    "autofocus": {
+      "points": 779,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 9,
+      "buffer_raw": 200,
+      "buffer_jpeg": 300
+    },
+    "video": {
+      "max_resolution": "6K",
+      "max_fps": 30,
+      "log_profiles": ["V-Log", "V-Gamut"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "DMW-BLK22",
+      "life_shots": 415,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.78
+    },
+    "lens_mount": {
+      "mount": "Leica L",
+      "compatible_lenses": ["L-Mount", "Sigma L", "Leica L"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 15,
+    "brand": "Sony",
+    "model": "Alpha a7C II",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 33.0,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1036800,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 514,
+      "dimensions": {
+        "width": 124,
+        "height": 71.1,
+        "depth": 63.4
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 88,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 540,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 16,
+    "brand": "Canon",
+    "model": "EOS R7",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 32.5,
+      "size_mm": "22.3 x 14.8",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 612,
+      "dimensions": {
+        "width": 132,
+        "height": 90.4,
+        "depth": 91.7
+      }
+    },
+    "autofocus": {
+      "points": 651,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 30,
+      "buffer_raw": 126,
+      "buffer_jpeg": 224
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log3"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6NH",
+      "life_shots": 660,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.72
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/16000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 17,
+    "brand": "Nikon",
+    "model": "Zf",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 24.5,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 7",
+      "iso": {
+        "native": "100-64000",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 710,
+      "dimensions": {
+        "width": 144,
+        "height": 103,
+        "depth": 49
+      }
+    },
+    "autofocus": {
+      "points": 273,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-10",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 45,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD", "microSD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 430,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black", "Blue", "Red", "Green"]
+    }
+  },
+  {
+    "id": 18,
+    "brand": "Fujifilm",
+    "model": "GFX 100 II",
+    "sensor": {
+      "type": "Medium Format BSI CMOS",
+      "resolution_mp": 102.0,
+      "size_mm": "43.8 x 32.9",
+      "crop_factor": 0.79,
+      "image_processor": "X-Processor 5",
+      "iso": {
+        "native": "80-12800",
+        "expanded": "40-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2360000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1030,
+      "dimensions": {
+        "width": 152.4,
+        "height": 117.4,
+        "depth": 98.6
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-5.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 76,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log", "F-Log2"],
+      "formats": ["ProRes RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 540,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 1.0
+    },
+    "lens_mount": {
+      "mount": "Fujifilm G",
+      "compatible_lenses": ["GF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "60s",
+      "flash_sync": "1/125"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 19,
+    "brand": "Sony",
+    "model": "Alpha ZV-E1",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 12.1,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-409600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1036800,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": true,
+      "weight": 483,
+      "dimensions": {
+        "width": 121,
+        "height": 71.9,
+        "depth": 54.3
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 90,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 120,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 570,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "None",
+      "coverage_percent": 0,
+      "magnification": 0
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/30"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black", "White"]
+    }
+  },
+  {
+    "id": 20,
+    "brand": "Canon",
+    "model": "EOS R50",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 375,
+      "dimensions": {
+        "width": 116.3,
+        "height": 85.5,
+        "depth": 68.8
+      }
+    },
+    "autofocus": {
+      "points": 651,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 15,
+      "buffer_raw": 42,
+      "buffer_jpeg": 72
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 370,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.59
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black", "White"]
+    }
+  },
+  {
+    "id": 21,
+    "brand": "Nikon",
+    "model": "Z5",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.3,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 675,
+      "dimensions": {
+        "width": 134,
+        "height": 100.5,
+        "depth": 69.5
+      }
+    },
+    "autofocus": {
+      "points": 273,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 4.5,
+      "buffer_raw": 56,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 470,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 22,
+    "brand": "Sony",
+    "model": "Alpha a9 III",
+    "sensor": {
+      "type": "Full Frame Global Shutter CMOS",
+      "resolution_mp": 24.6,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "250-25600",
+        "expanded": "125-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2095100,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 702,
+      "dimensions": {
+        "width": 136.1,
+        "height": 96.9,
+        "depth": 82.9
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 120,
+      "buffer_raw": 192,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 120,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type A", "SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 530,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.90
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/80000",
+      "min_speed": "30s",
+      "flash_sync": "1/80000"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2024,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 23,
+    "brand": "Fujifilm",
+    "model": "X-S20",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 4",
+      "resolution_mp": 26.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 5",
+      "iso": {
+        "native": "160-12800",
+        "expanded": "80-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": false,
+      "weight": 491,
+      "dimensions": {
+        "width": 127.7,
+        "height": 85.1,
+        "depth": 65.4
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 35,
+      "buffer_jpeg": 256
+    },
+    "video": {
+      "max_resolution": "6.2K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log", "F-Log2"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 750,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.62
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 24,
+    "brand": "Panasonic",
+    "model": "Lumix G9 II",
+    "sensor": {
+      "type": "Micro Four Thirds CMOS",
+      "resolution_mp": 25.2,
+      "size_mm": "17.3 x 13",
+      "crop_factor": 2.0,
+      "image_processor": "Venus Engine",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 658,
+      "dimensions": {
+        "width": 134.3,
+        "height": 102.3,
+        "depth": 90.1
+      }
+    },
+    "autofocus": {
+      "points": 779,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 60,
+      "buffer_raw": 200,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 120,
+      "log_profiles": ["V-Log L"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "DMW-BLK22",
+      "life_shots": 400,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Micro Four Thirds",
+      "compatible_lenses": ["MFT"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 25,
+    "brand": "Leica",
+    "model": "M11",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 60.3,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "Maestro III",
+      "iso": {
+        "native": "64-50000",
+        "expanded": "64-50000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 2332800,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": false
+    },
+    "body": {
+      "material": "Magnesium Alloy/Brass",
+      "weather_sealed": true,
+      "weight": 640,
+      "dimensions": {
+        "width": 139,
+        "height": 80,
+        "depth": 38.5
+      }
+    },
+    "autofocus": {
+      "points": 0,
+      "cross_type_points": 0,
+      "low_light_af_ev": "N/A",
+      "face_detection": false
+    },
+    "burst": {
+      "fps": 4.5,
+      "buffer_raw": 15,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "None",
+      "max_fps": 0,
+      "log_profiles": [],
+      "formats": [],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "BP-SCL7",
+      "life_shots": 700,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": false
+    },
+    "viewfinder": {
+      "type": "Optical Rangefinder",
+      "coverage_percent": 100,
+      "magnification": 0.73
+    },
+    "lens_mount": {
+      "mount": "Leica M",
+      "compatible_lenses": ["M"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "60s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 26,
+    "brand": "Sony",
+    "model": "Alpha a6600",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "BIONZ X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921600,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 503,
+      "dimensions": {
+        "width": 120,
+        "height": 66.9,
+        "depth": 69.3
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 46,
+      "buffer_jpeg": 99
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["S-Log3", "S-Log2"],
+      "formats": ["XAVC S"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 810,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 27,
+    "brand": "Canon",
+    "model": "EOS R3",
+    "sensor": {
+      "type": "Full Frame Stacked BSI CMOS",
+      "resolution_mp": 24.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 4150000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1015,
+      "dimensions": {
+        "width": 150,
+        "height": 142.6,
+        "depth": 87.2
+      }
+    },
+    "autofocus": {
+      "points": 4779,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 30,
+      "buffer_raw": 150,
+      "buffer_jpeg": 540
+    },
+    "video": {
+      "max_resolution": "6K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log3"],
+      "formats": ["RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "LP-E19",
+      "life_shots": 620,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": true,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/64000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 28,
+    "brand": "Nikon",
+    "model": "Z50",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.9,
+      "size_mm": "23.5 x 15.7",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "100-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 450,
+      "dimensions": {
+        "width": 126.5,
+        "height": 93.5,
+        "depth": 60
+      }
+    },
+    "autofocus": {
+      "points": 209,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 30,
+      "buffer_jpeg": 50
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL25",
+      "life_shots": 320,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.68
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z DX", "Z FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 29,
+    "brand": "Fujifilm",
+    "model": "X-T30 II",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 4",
+      "resolution_mp": 26.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 4",
+      "iso": {
+        "native": "160-12800",
+        "expanded": "80-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": false,
+      "weight": 383,
+      "dimensions": {
+        "width": 118.4,
+        "height": 82.8,
+        "depth": 46.8
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 42,
+      "buffer_jpeg": 105
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-W126S",
+      "life_shots": 380,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.62
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 30,
+    "brand": "OM System",
+    "model": "OM-5",
+    "sensor": {
+      "type": "Micro Four Thirds CMOS",
+      "resolution_mp": 20.4,
+      "size_mm": "17.4 x 13",
+      "crop_factor": 2.0,
+      "image_processor": "TruePic IX",
+      "iso": {
+        "native": "200-6400",
+        "expanded": "64-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": true,
+      "weight": 414,
+      "dimensions": {
+        "width": 125.3,
+        "height": 85.2,
+        "depth": 49.7
+      }
+    },
+    "autofocus": {
+      "points": 121,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 30,
+      "buffer_raw": 107,
+      "buffer_jpeg": 134
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["OM-Log400"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "BLS-50",
+      "life_shots": 310,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.68
+    },
+    "lens_mount": {
+      "mount": "Micro Four Thirds",
+      "compatible_lenses": ["MFT"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 31,
+    "brand": "Sony",
+    "model": "Alpha a7S III",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 12.1,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-409600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1440000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 699,
+      "dimensions": {
+        "width": 128.9,
+        "height": 96.9,
+        "depth": 80.8
+      }
+    },
+    "autofocus": {
+      "points": 759,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 150,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 120,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type A", "SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 600,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.90
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 32,
+    "brand": "Canon",
+    "model": "EOS RP",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 26.2,
+      "size_mm": "35.9 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 8",
+      "iso": {
+        "native": "100-40000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum/Polycarbonate",
+      "weather_sealed": false,
+      "weight": 485,
+      "dimensions": {
+        "width": 132.5,
+        "height": 85,
+        "depth": 70
+      }
+    },
+    "autofocus": {
+      "points": 4779,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 5,
+      "buffer_raw": 50,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 25,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 250,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 33,
+    "brand": "Nikon",
+    "model": "Z fc",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.9,
+      "size_mm": "23.5 x 15.7",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "100-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 445,
+      "dimensions": {
+        "width": 134.5,
+        "height": 93.5,
+        "depth": 43.5
+      }
+    },
+    "autofocus": {
+      "points": 209,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 25,
+      "buffer_jpeg": 40
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL25",
+      "life_shots": 320,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.68
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z DX", "Z FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black", "Silver", "White", "Beige", "Mint", "Coral"]
+    }
+  },
+  {
+    "id": 34,
+    "brand": "Fujifilm",
+    "model": "GFX 50S II",
+    "sensor": {
+      "type": "Medium Format CMOS",
+      "resolution_mp": 51.4,
+      "size_mm": "43.8 x 32.9",
+      "crop_factor": 0.79,
+      "image_processor": "X-Processor 4",
+      "iso": {
+        "native": "100-12800",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2360000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 900,
+      "dimensions": {
+        "width": 150,
+        "height": 104.2,
+        "depth": 87.2
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 3,
+      "buffer_raw": 25,
+      "buffer_jpeg": 45
+    },
+    "video": {
+      "max_resolution": "1080p",
+      "max_fps": 30,
+      "log_profiles": ["F-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 455,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.77
+    },
+    "lens_mount": {
+      "mount": "Fujifilm G",
+      "compatible_lenses": ["GF"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "60s",
+      "flash_sync": "1/125"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 35,
+    "brand": "Panasonic",
+    "model": "Lumix S1R",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 47.3,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "Venus Engine",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 1020,
+      "dimensions": {
+        "width": 148.9,
+        "height": 110,
+        "depth": 96.7
+      }
+    },
+    "autofocus": {
+      "points": 225,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 9,
+      "buffer_raw": 50,
+      "buffer_jpeg": 120
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["V-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD", "XQD"]
+    },
+    "battery": {
+      "model": "DMW-BLJ31",
+      "life_shots": 360,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.1",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.78
+    },
+    "lens_mount": {
+      "mount": "Leica L",
+      "compatible_lenses": ["L-Mount", "Sigma L", "Leica L"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 36,
+    "brand": "Sony",
+    "model": "Alpha a6100",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "BIONZ X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921600,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 396,
+      "dimensions": {
+        "width": 120,
+        "height": 66.9,
+        "depth": 59.4
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 33,
+      "buffer_jpeg": 77
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["XAVC S"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FW50",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2019,
+      "status": "current",
+      "colors": ["Black", "Silver", "White"]
+    }
+  },
+  {
+    "id": 37,
+    "brand": "Canon",
+    "model": "EOS R10",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "22.3 x 14.9",
+      "crop_factor": 1.6,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 429,
+      "dimensions": {
+        "width": 122.5,
+        "height": 87.8,
+        "depth": 83.4
+      }
+    },
+    "autofocus": {
+      "points": 651,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 23,
+      "buffer_raw": 70,
+      "buffer_jpeg": 160
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E17",
+      "life_shots": 450,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.59
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 38,
+    "brand": "Nikon",
+    "model": "Z7 II",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 45.7,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "Dual EXPEED 6",
+      "iso": {
+        "native": "64-25600",
+        "expanded": "32-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 705,
+      "dimensions": {
+        "width": 134,
+        "height": 100.5,
+        "depth": 69.5
+      }
+    },
+    "autofocus": {
+      "points": 493,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 10,
+      "buffer_raw": 77,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 39,
+    "brand": "Fujifilm",
+    "model": "X-E4",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 4",
+      "resolution_mp": 26.1,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 4",
+      "iso": {
+        "native": "160-12800",
+        "expanded": "80-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum/Polycarbonate",
+      "weather_sealed": false,
+      "weight": 364,
+      "dimensions": {
+        "width": 121.3,
+        "height": 72.9,
+        "depth": 32.7
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 37,
+      "buffer_jpeg": 105
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-W126S",
+      "life_shots": 380,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.62
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/180"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "discontinued",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 40,
+    "brand": "Panasonic",
+    "model": "Lumix GH6",
+    "sensor": {
+      "type": "Micro Four Thirds CMOS",
+      "resolution_mp": 25.2,
+      "size_mm": "17.3 x 13",
+      "crop_factor": 2.0,
+      "image_processor": "Venus Engine",
+      "iso": {
+        "native": "100-25600",
+        "expanded": "50-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 823,
+      "dimensions": {
+        "width": 138.4,
+        "height": 100.3,
+        "depth": 99.6
+      }
+    },
+    "autofocus": {
+      "points": 315,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 65,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "5.7K",
+      "max_fps": 60,
+      "log_profiles": ["V-Log L"],
+      "formats": ["ProRes", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "DMW-BLK22",
+      "life_shots": 380,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Micro Four Thirds",
+      "compatible_lenses": ["MFT"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 41,
+    "brand": "Sony",
+    "model": "Alpha a7CR",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 61.0,
+      "size_mm": "35.7 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "BIONZ XR",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1036800,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 515,
+      "dimensions": {
+        "width": 124,
+        "height": 71.1,
+        "depth": 63.4
+      }
+    },
+    "autofocus": {
+      "points": 693,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 36,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["S-Log3", "S-Cinetone"],
+      "formats": ["XAVC HS", "XAVC S", "XAVC S-I"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FZ100",
+      "life_shots": 530,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.70
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 42,
+    "brand": "Canon",
+    "model": "EOS R6",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 20.1,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC X",
+      "iso": {
+        "native": "100-102400",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 680,
+      "dimensions": {
+        "width": 138.4,
+        "height": 97.5,
+        "depth": 88.4
+      }
+    },
+    "autofocus": {
+      "points": 6072,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 240,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["C-Log3"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6NH",
+      "life_shots": 510,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 43,
+    "brand": "Nikon",
+    "model": "Z30",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 20.9,
+      "size_mm": "23.5 x 15.7",
+      "crop_factor": 1.5,
+      "image_processor": "EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "100-256000"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": true,
+      "weight": 405,
+      "dimensions": {
+        "width": 128,
+        "height": 73.5,
+        "depth": 59.5
+      }
+    },
+    "autofocus": {
+      "points": 209,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 30,
+      "buffer_jpeg": 40
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "EN-EL25",
+      "life_shots": 330,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "None",
+      "coverage_percent": 0,
+      "magnification": 0
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z DX", "Z FX"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 44,
+    "brand": "Fujifilm",
+    "model": "X-H2",
+    "sensor": {
+      "type": "APS-C X-Trans CMOS 5 HR",
+      "resolution_mp": 40.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "X-Processor 5",
+      "iso": {
+        "native": "125-12800",
+        "expanded": "64-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1620000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 660,
+      "dimensions": {
+        "width": 136.3,
+        "height": 92.9,
+        "depth": 84.6
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-7",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 20,
+      "buffer_raw": 202,
+      "buffer_jpeg": 1000
+    },
+    "video": {
+      "max_resolution": "8K",
+      "max_fps": 30,
+      "log_profiles": ["F-Log", "F-Log2"],
+      "formats": ["ProRes RAW", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "NP-W235",
+      "life_shots": 580,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Fujifilm X",
+      "compatible_lenses": ["XF", "XC"]
+    },
+    "shutter": {
+      "max_speed": "1/180000",
+      "min_speed": "30s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 45,
+    "brand": "Sony",
+    "model": "Alpha ZV-E10",
+    "sensor": {
+      "type": "APS-C CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "23.5 x 15.6",
+      "crop_factor": 1.5,
+      "image_processor": "BIONZ X",
+      "iso": {
+        "native": "100-32000",
+        "expanded": "100-51200"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 921600,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 343,
+      "dimensions": {
+        "width": 115.2,
+        "height": 64.2,
+        "depth": 44.8
+      }
+    },
+    "autofocus": {
+      "points": 425,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-2",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 11,
+      "buffer_raw": 25,
+      "buffer_jpeg": 77
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["S-Log3", "S-Log2"],
+      "formats": ["XAVC S"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "NP-FW50",
+      "life_shots": 440,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "None",
+      "coverage_percent": 0,
+      "magnification": 0
+    },
+    "lens_mount": {
+      "mount": "Sony E",
+      "compatible_lenses": ["FE", "E"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "30s",
+      "flash_sync": "1/160"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black", "White"]
+    }
+  },
+  {
+    "id": 46,
+    "brand": "Canon",
+    "model": "EOS R",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 30.3,
+      "size_mm": "36 x 24",
+      "crop_factor": 1.0,
+      "image_processor": "DIGIC 8",
+      "iso": {
+        "native": "100-40000",
+        "expanded": "50-102400"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 660,
+      "dimensions": {
+        "width": 135.8,
+        "height": 98.3,
+        "depth": 84.4
+      }
+    },
+    "autofocus": {
+      "points": 5655,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 8,
+      "buffer_raw": 47,
+      "buffer_jpeg": 100
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": ["C-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "LP-E6N",
+      "life_shots": 370,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.1",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.76
+    },
+    "lens_mount": {
+      "mount": "Canon RF",
+      "compatible_lenses": ["RF", "RF-S"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2018,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 47,
+    "brand": "Nikon",
+    "model": "Z6 II",
+    "sensor": {
+      "type": "Full Frame BSI CMOS",
+      "resolution_mp": 24.5,
+      "size_mm": "35.9 x 23.9",
+      "crop_factor": 1.0,
+      "image_processor": "Dual EXPEED 6",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.2,
+      "resolution_dots": 2100000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 705,
+      "dimensions": {
+        "width": 134,
+        "height": 100.5,
+        "depth": 69.5
+      }
+    },
+    "autofocus": {
+      "points": 273,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-4.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 14,
+      "buffer_raw": 124,
+      "buffer_jpeg": 200
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 60,
+      "log_profiles": ["N-Log"],
+      "formats": ["MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "SD"]
+    },
+    "battery": {
+      "model": "EN-EL15c",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.80
+    },
+    "lens_mount": {
+      "mount": "Nikon Z",
+      "compatible_lenses": ["Z", "F (via adapter)"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "30s",
+      "flash_sync": "1/200"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2020,
+      "status": "discontinued",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 48,
+    "brand": "Hasselblad",
+    "model": "X2D 100C",
+    "sensor": {
+      "type": "Medium Format BSI CMOS",
+      "resolution_mp": 100.0,
+      "size_mm": "43.8 x 32.9",
+      "crop_factor": 0.79,
+      "image_processor": "Hasselblad Natural Colour Solution",
+      "iso": {
+        "native": "64-25600",
+        "expanded": "64-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.6,
+      "resolution_dots": 2360000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Aluminum",
+      "weather_sealed": true,
+      "weight": 895,
+      "dimensions": {
+        "width": 148.5,
+        "height": 106,
+        "depth": 74.5
+      }
+    },
+    "autofocus": {
+      "points": 294,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-1",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 3.3,
+      "buffer_raw": 16,
+      "buffer_jpeg": 16
+    },
+    "video": {
+      "max_resolution": "None",
+      "max_fps": 0,
+      "log_profiles": [],
+      "formats": [],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["CFexpress Type B", "Internal SSD"]
+    },
+    "battery": {
+      "model": "Rechargeable Li-ion",
+      "life_shots": 420,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": false,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": false
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.88
+    },
+    "lens_mount": {
+      "mount": "Hasselblad XCD",
+      "compatible_lenses": ["XCD"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "68s",
+      "flash_sync": "1/4000"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2022,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  },
+  {
+    "id": 49,
+    "brand": "OM System",
+    "model": "PEN E-P7",
+    "sensor": {
+      "type": "Micro Four Thirds CMOS",
+      "resolution_mp": 20.3,
+      "size_mm": "17.4 x 13",
+      "crop_factor": 2.0,
+      "image_processor": "TruePic VIII",
+      "iso": {
+        "native": "200-6400",
+        "expanded": "100-25600"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1040000,
+      "touchscreen": true,
+      "articulating": false,
+      "tilting": true
+    },
+    "body": {
+      "material": "Polycarbonate",
+      "weather_sealed": false,
+      "weight": 378,
+      "dimensions": {
+        "width": 118.3,
+        "height": 68.5,
+        "depth": 38.1
+      }
+    },
+    "autofocus": {
+      "points": 121,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-3.5",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 15,
+      "buffer_raw": 60,
+      "buffer_jpeg": 60
+    },
+    "video": {
+      "max_resolution": "4K",
+      "max_fps": 30,
+      "log_profiles": [],
+      "formats": ["MP4"],
+      "microphone_input": false,
+      "headphone_jack": false,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 1,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "BLS-50",
+      "life_shots": 360,
+      "usb_charging": false
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 2.0",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "None",
+      "coverage_percent": 0,
+      "magnification": 0
+    },
+    "lens_mount": {
+      "mount": "Micro Four Thirds",
+      "compatible_lenses": ["MFT"]
+    },
+    "shutter": {
+      "max_speed": "1/4000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": true,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2021,
+      "status": "current",
+      "colors": ["Black", "Silver"]
+    }
+  },
+  {
+    "id": 50,
+    "brand": "Panasonic",
+    "model": "Lumix S5 IIX",
+    "sensor": {
+      "type": "Full Frame CMOS",
+      "resolution_mp": 24.2,
+      "size_mm": "35.6 x 23.8",
+      "crop_factor": 1.0,
+      "image_processor": "Venus Engine",
+      "iso": {
+        "native": "100-51200",
+        "expanded": "50-204800"
+      }
+    },
+    "screen": {
+      "type": "LCD",
+      "size_inches": 3.0,
+      "resolution_dots": 1840000,
+      "touchscreen": true,
+      "articulating": true,
+      "tilting": true
+    },
+    "body": {
+      "material": "Magnesium Alloy",
+      "weather_sealed": true,
+      "weight": 740,
+      "dimensions": {
+        "width": 134.3,
+        "height": 102.3,
+        "depth": 90.1
+      }
+    },
+    "autofocus": {
+      "points": 779,
+      "cross_type_points": 0,
+      "low_light_af_ev": "-6",
+      "face_detection": true
+    },
+    "burst": {
+      "fps": 9,
+      "buffer_raw": 200,
+      "buffer_jpeg": 300
+    },
+    "video": {
+      "max_resolution": "6K",
+      "max_fps": 30,
+      "log_profiles": ["V-Log", "V-Gamut"],
+      "formats": ["ProRes RAW", "All-Intra", "MP4", "MOV"],
+      "microphone_input": true,
+      "headphone_jack": true,
+      "clean_hdmi": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"]
+    },
+    "storage": {
+      "card_slots": 2,
+      "card_types": ["SD"]
+    },
+    "battery": {
+      "model": "DMW-BLK22",
+      "life_shots": 415,
+      "usb_charging": true
+    },
+    "connectivity": {
+      "wifi": true,
+      "bluetooth": true,
+      "gps": false,
+      "usb": "USB 3.2",
+      "hdmi": true
+    },
+    "viewfinder": {
+      "type": "Electronic",
+      "coverage_percent": 100,
+      "magnification": 0.78
+    },
+    "lens_mount": {
+      "mount": "Leica L",
+      "compatible_lenses": ["L-Mount", "Sigma L", "Leica L"]
+    },
+    "shutter": {
+      "max_speed": "1/8000",
+      "min_speed": "60s",
+      "flash_sync": "1/250"
+    },
+    "flash": {
+      "built_in": false,
+      "hot_shoe": true
+    },
+    "infos": {
+      "announcement": 2023,
+      "status": "current",
+      "colors": ["Black"]
+    }
+  }
+]
